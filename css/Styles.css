@@ -141,7 +141,7 @@ body {
 /*email list*/
 .emailLists {
 	flex: 1;
-	overflow: scroll;
+	
 	margin-bottom: 5px;
 }
 
